@@ -72,8 +72,8 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-80"	[$WIN32]
-		"ypos"			"c85"	[$WIN32]
+		"xpos"			"c-50"		[$WIN32]
+		"ypos"			"c85"		[$WIN32]
 		"wide"			"400"
 		"tall"			"60"
 	}
@@ -415,8 +415,17 @@
 	}
 
 	HudDamageIndicator
-	{
-
+    {
+		"fieldName" "HudDamageIndicator"
+		"visible" "1"
+		"enabled" "1"
+		"MinimumWidth" "10"
+		"MaximumWidth" "10"            
+		"StartRadius" "80"
+		"EndRadius" "80"
+		"MinimumHeight" "30"
+		"MaximumHeight" "60"
+		"MinimumTime" "1"
 	}
 
 	HudCommentary
