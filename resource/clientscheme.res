@@ -2805,6 +2805,26 @@ Scheme
 			}
 		}
 		
+		BikoRegular4Size
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"4"
+				"antialias" "1"
+			}
+		}
+	
+		BikoRegular8Size
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+	
 		BikoRegular12Size
 		{
 			"1"
